@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.6a9b9611.css",
+    "main.js": "/React-Portfolio/static/js/main.734b76c7.js",
+    "static/js/787.ec704a7a.chunk.js": "/React-Portfolio/static/js/787.ec704a7a.chunk.js",
+    "static/media/me.png": "/React-Portfolio/static/media/me.593cccaf7511b45925b1.png",
+    "static/media/Programming.gif": "/React-Portfolio/static/media/Programming.b314b0ea1db3995a71f5.gif",
+    "static/media/img.png": "/React-Portfolio/static/media/img.956f07ce227703f26e16.png",
+    "static/media/bootstrap-icons.woff?": "/React-Portfolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/React-Portfolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/emoji.png": "/React-Portfolio/static/media/emoji.57491c09d31d6fa755e2.png",
+    "static/media/travelSip.png": "/React-Portfolio/static/media/travelSip.21fe9cd405550681ef58.png",
+    "static/media/scoring.png": "/React-Portfolio/static/media/scoring.097e582df9402b77a0d8.png",
+    "static/media/digit.png": "/React-Portfolio/static/media/digit.efc7d5de129351aeaea6.png",
+    "static/media/rock.png": "/React-Portfolio/static/media/rock.d9a136f26c0d7a338e99.png",
+    "static/media/ToDoList.png": "/React-Portfolio/static/media/ToDoList.616b2f48b305e8e5b562.png",
+    "static/media/tiktaktoe.png": "/React-Portfolio/static/media/tiktaktoe.b476db942a5c8d58e6f0.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.6a9b9611.css.map": "/React-Portfolio/static/css/main.6a9b9611.css.map",
+    "main.734b76c7.js.map": "/React-Portfolio/static/js/main.734b76c7.js.map",
+    "787.ec704a7a.chunk.js.map": "/React-Portfolio/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9b9611.css",
+    "static/js/main.734b76c7.js"
+  ]
+}
