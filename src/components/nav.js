@@ -4,7 +4,7 @@ function Navigation(){
     return(
         <div>
              <nav className="navbar navbar-dark navbar-expand-lg bg-dark bg-body-primary ">
-                <div className="container-fluid ">
+                <div className="container-fluid d-flex justify-content-between">
                     <Link className="navbar-brand" to='/home'><span className="text-danger"> C</span>hristian</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>

@@ -78,6 +78,14 @@ function Service(){
                                     <a href=" https://epicyclic-crystals.000webhostapp.com/admin-index.php"><img src={IMAGES.picTravel} alt="" height='200' width='200' srcSet="" /></a>
                                 </div>
                             </div>
+                            <div className="pic1">
+
+                            <div className="backPicProject" data-text="I designed a movie website using React.js, leveraging an API as the primary data source.">
+                            </div>
+                                <div className="picProjects">
+                                    <a href=" https://mastercodingking.github.io/Retro-Reels/"><img src={IMAGES.picMovies} alt="" height='200' width='200' srcSet="" /></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
