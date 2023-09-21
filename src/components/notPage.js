@@ -4,8 +4,10 @@ function NotFound(){
         <>
             <div className="container-fluid notFound ">
                 <h1>404</h1>
-                <p>Not Found</p>
+                <p>NOT FOUND</p>
                 <p>Navigate To the Nabvar</p>
+
+
             </div>
         </>
    )
